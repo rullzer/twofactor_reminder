@@ -39,12 +39,9 @@ class Application extends App implements IBootstrap {
 	}
 
 	public function register(IRegistrationContext $context): void {
-		// TODO: Implement register() method.
+		$context->registerNotifierService(Enable2FANotification::class);
 	}
 
 	public function boot(IBootContext $context): void {
-		$notificationManager = $context->getServerContainer()->getNotificationManager();
-
-		$notificationManager->registerNotifierService(Enable2FANotification::class);
 	}
 }

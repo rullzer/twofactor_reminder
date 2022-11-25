@@ -2,7 +2,7 @@
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
 	  xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
 	<id>twofactor_reminder</id>
-	<name>Two Factor Reminder</name>
+	<name>Two factor reminder</name>
 	<summary>Remind people to turn on 2FA</summary>
 	<description>2FA should be the standard these days. However a lot of people forget to enable it. This app will send them a notification once a month.</description>
 	<version>0.0.1</version>

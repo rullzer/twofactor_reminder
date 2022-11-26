@@ -1,0 +1,9 @@
+{ "translations": {
+    "Two factor reminder" : "Zwei-Faktor Erinnerung",
+    "You are not using two-factor authentication" : "Sie verwenden keine Zwei-Faktor-Authentifizierung",
+    "To secure your account please enable two-factor authentication on your account!" : "Um Ihr Konto zu sichern, aktivieren Sie bitte die Zwei-Faktor-Authentifizierung für Ihr Konto!",
+    "Two Factor Reminder" : "Zwei-Faktor Erinnerung",
+    "Remind people to turn on 2FA" : "Erinnern Sie die Leute daran, 2FA zu aktivieren",
+    "2FA should be the standard these days. However a lot of people forget to enable it. This app will send them a notification once a month." : "2FA sollte heutzutage zum Standard gehören. Viele Leute vergessen jedoch, sie zu aktivieren. Diese App wird ihnen einmal im Monat eine Benachrichtigung schicken."
+},"pluralForm" :"nplurals=2; plural=(n != 1);"
+}

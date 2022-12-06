@@ -4,7 +4,6 @@ OC.L10N.register(
     "Two factor reminder" : "Напоминание о двухфакторной аутентицикации",
     "You are not using two-factor authentication" : "Вы используете двухфакторную аутентицикацию",
     "To secure your account please enable two-factor authentication on your account!" : "Для дополнительной защиты вашей учетной записи активируйте двухфакторную аутентификацию!",
-    "Two Factor Reminder" : "Напоминание о двухфакторной аутентицикации",
     "Remind people to turn on 2FA" : "Напоминать людям включить 2FA",
     "2FA should be the standard these days. However a lot of people forget to enable it. This app will send them a notification once a month." : "Двухфакторная аутентификация должна быть стандартом в наши дни. Однако многие люди забывают включить её. Это приложение будет отправлять им уведомление раз в месяц."
 },

@@ -4,7 +4,6 @@ OC.L10N.register(
     "Two factor reminder" : "مزود خدمة المصادقة بخطوتين ",
     "You are not using two-factor authentication" : "أنت لا تستخدم المصادقة بخطوتين",
     "To secure your account please enable two-factor authentication on your account!" : "لتأمين حسابك ، يرجى تمكين المصادقة بخطوتين على حسابك",
-    "Two Factor Reminder" : "مزود خدمة المصادقة بخطوتين ",
     "Remind people to turn on 2FA" : "تذكير المستخدمين بتفعيل المصادقة بخطوتين 2FA",
     "2FA should be the standard these days. However a lot of people forget to enable it. This app will send them a notification once a month." : "\"يجب أن يكون 2FA هو معيار الامان في هذه الأيام. لكن الكثير من الناس ينسون تمكينه. سيرسل لهم هذا التطبيق إشعارًا مرة واحدة في الشهر.\""
 },

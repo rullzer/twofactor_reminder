@@ -1,7 +1,7 @@
 { "translations": {
     "Two factor reminder" : "雙重認證提醒",
     "You are not using two-factor authentication" : "您沒有使用雙重認證",
-    "To secure your account please enable two-factor authentication on your account!" : "為了保護您的賬戶，請在您的賬戶上啟用雙重認證！",
+    "To secure your account please enable two-factor authentication on your account!" : "為了保護您的帳戶，請在您的帳戶上啟用雙重認證！",
     "Remind people to turn on 2FA" : "提醒人們開啟 2FA",
     "2FA should be the standard these days. However a lot of people forget to enable it. This app will send them a notification once a month." : "如今，2FA 應該是標準。但是很多人忘記啟用它。這個應用程式將每月向他們發送一次通知。"
 },"pluralForm" :"nplurals=1; plural=0;"

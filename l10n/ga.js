@@ -1,0 +1,10 @@
+OC.L10N.register(
+    "twofactor_reminder",
+    {
+    "Two factor reminder" : "Meabhrúchán dhá fhachtóir",
+    "You are not using two-factor authentication" : "Níl fíordheimhniú dhá-fhachtóir á úsáid agat",
+    "To secure your account please enable two-factor authentication on your account!" : "Chun do chuntas a dhéanamh slán, cumasaigh fíordheimhniú dhá fhachtóir ar do chuntas!",
+    "Remind people to turn on 2FA" : "Cuir i gcuimhne do dhaoine 2FA a chur ar siúl",
+    "2FA should be the standard these days. However a lot of people forget to enable it. This app will send them a notification once a month." : "Ba cheart go mbeadh 2FA mar an gcaighdeán na laethanta seo. Déanann go leor daoine dearmad, áfach, é a chumasú. Seolfaidh an aip seo fógra chucu uair sa mhí."
+},
+"nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);");

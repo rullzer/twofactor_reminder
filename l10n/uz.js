@@ -1,0 +1,10 @@
+OC.L10N.register(
+    "twofactor_reminder",
+    {
+    "Two factor reminder" : "Ikki faktorli eslatma",
+    "You are not using two-factor authentication" : "Siz ikki faktorli autentifikatsiyadan foydalanmayapsiz",
+    "To secure your account please enable two-factor authentication on your account!" : "Akkauntingizni himoya qilish uchun hisobingizda ikki faktorli autentifikatsiyani yoqing!",
+    "Remind people to turn on 2FA" : "Odamlarga 2FAni yoqishni eslating",
+    "2FA should be the standard these days. However a lot of people forget to enable it. This app will send them a notification once a month." : "2FA bugungi kunda standart bo'lishi kerak. Biroq, ko'p odamlar uni yoqishni unutishadi. Bu ilova ularga oyiga bir marta bildirishnoma yuboradi."
+},
+"nplurals=1; plural=0;");
